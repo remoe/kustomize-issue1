@@ -1,0 +1,6 @@
+commonLabels:
+  owner: tester
+  app: test
+resources:
+- deployment.yaml
+- service.yaml
